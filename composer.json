@@ -1,5 +1,5 @@
 {
-	"name": "taco/lib-i18n",
+	"name": "tacoberu/i18n-php",
 	"description": "Translator for php with support nette and cake.",
 	"require": {
 		"php": ">=5.3.0",
